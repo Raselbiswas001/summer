@@ -326,7 +326,7 @@ font-face{
 
  .span {
     position: absolute;
-    right: 37%;
+    right: 43%;
     bottom: 0;
     width: 200px;
     height: 8px;
@@ -579,3 +579,4 @@ footer{
 }
 
 /****************fake loader end***************/
+
