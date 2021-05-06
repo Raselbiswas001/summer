@@ -103,8 +103,8 @@
 
     }
         /*sec*/
-    span {
-    	right: 21%;
+    .span {
+    	right: 23%;
     	width: 170px;
     }
         /*number*/
@@ -263,7 +263,7 @@
 
     }
     /*sec*/
-    span {
+    .span {
     	right: 33%;
     }
     /*number*/
@@ -278,37 +278,37 @@
     	margin-bottom: 30px;
 
     }
-          /*project_date*/
-	    .p_text {
-	    	padding: 30px;
-	    }
-	    
-	    .p_img img {
-	    	width: 100%;
-	    }
-	    	    /*tricks*/
-	    .t_content span {
-	    	top: -6px;
-	    	left: -25px;
-	    	width: 5px;
+    /*project_date*/
+    .p_text {
+    	padding: 30px;
+    }
 
-	    }
-	    	    /*client2*/
-	    .client_icon ul li i {
-	    	margin-right: 6px;
-	    	font-size: 16px;
-	    	width: 30px;
-	    	height: 30px;
-	    	line-height: 30px;
-	    }
-	    /*footer*/
-	    .f_s{
-	    	text-align: center;
-	    }
-	    .f_h1 {
-	    	margin-bottom: 30px;
-	    	font-size: 20px;
-	    }
+    .p_img img {
+    	width: 100%;
+    }
+    /*tricks*/
+    .t_content span {
+    	top: -6px;
+    	left: -25px;
+    	width: 5px;
+
+    }
+    /*client2*/
+    .client_icon ul li i {
+    	margin-right: 6px;
+    	font-size: 16px;
+    	width: 30px;
+    	height: 30px;
+    	line-height: 30px;
+    }
+	/*footer*/
+	.f_s{
+		text-align: center;
+	}
+	.f_h1 {
+		margin-bottom: 30px;
+		font-size: 20px;
+	}
 
 }
 
@@ -383,8 +383,8 @@
 
     }
         /*sec*/
-    span {
-    	right: 35%;
+    .span {
+    	right: 37%;
     }
     /*number*/
     .n_head {
@@ -435,6 +435,11 @@
 	    	padding: 90px;
 	    }
 
+	    /*sec*/
+	    .span {
+	    	right: 40%;
+	    }
+
 }
 
  /*Extra large devices (large desktops, 1200px and up)*/
@@ -456,7 +461,7 @@
 		background-color: #fff;
 	}
 	.span {
-		right: 42%;
+		right: 41%;
 	}
 }
 
@@ -465,5 +470,6 @@
 
 
  }
+
 
  
